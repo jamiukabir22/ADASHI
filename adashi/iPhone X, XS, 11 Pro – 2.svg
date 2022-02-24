@@ -1,5 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
   <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_X_XS_11_Pro_2);
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        font-family: MSReferenceSansSerif, MS Reference Sans Serif;
+      }
+
+      .cls-3 {
+        fill: #9b64c9;
+      }
+
+      .cls-12, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 19px;
+      }
+
+      .cls-5 {
+        stroke: #9b64c9;
+      }
+
+      .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        fill: rgba(0,0,0,0.47);
+      }
+
+      .cls-8 {
+        fill: url(#pattern);
+      }
+
+      .cls-9 {
+        stroke: #fff;
+        fill: url(#pattern-2);
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+    </style>
     <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 125 96">
       <image width="125" height="96" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEACgoKCgrKC0yMi0/RDxEP11VTk5VXYxkbGRsZIzVhZuFhZuF1bzkua255Lz//+vr//////////////////////8BKCgoKCsoLTIyLT9EPEQ/XVVOTlVdjGRsZGxkjNWFm4WFm4XVvOS5rbnkvP//6+v////////////////////////CABEIAGAAfQMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAABQMEAQb/2gAIAQEAAAAAsAAAAAPnwtbibwD3wLW4m8AAtbibwAC1uJvAALW4m8AAtbibwAC1uJvAGgV9hwcIXAAAAAH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQQDAv/aAAoCAhADEAAAAAAAmIvVoJleAL1aCZXgC9WgmZzFL1dyZnguwAA//8QAIhAAAQIGAwEBAQAAAAAAAAAAAwIEAAETIFORMDIzUBJx/9oACAEBAAE/APitvAf8tf8AYfG28B2v+w+Nt4Dtf9h8bbwHa/7D423gO1/2HxtvAdr/ALD423gO1/2HdRLjVqKJcatRRLjVqKJcatRRLjVqG8pyCiU7XqFqUj8pnOKJcatRRLjVqKJcatRRLjVqKJcatfB//8QAFBEBAAAAAAAAAAAAAAAAAAAAUP/aAAgBAgEBPwBD/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQADEDIRUSAwAhIh/9oACAEDAQE/AOpqxly54tWMuXPFqxly5nB0sHSaH2fMH3KwdLB10//Z"/>
     </pattern>
@@ -10,26 +64,27 @@
       <rect width="375" height="812"/>
     </clipPath>
   </defs>
-  <g id="iPhone_X_XS_11_Pro_2" data-name="iPhone X, XS, 11 Pro – 2" clip-path="url(#clip-iPhone_X_XS_11_Pro_2)">
-    <rect width="375" height="812" fill="#fff"/>
-    <text id="Register_with_phone_number" data-name="Register with phone number" transform="translate(51.5 371)" font-size="20" font-family="MSReferenceSansSerif, MS Reference Sans Serif"><tspan x="0" y="0">Register with phone number</tspan></text>
+  <g id="iPhone_X_XS_11_Pro_2" data-name="iPhone X, XS, 11 Pro – 2" class="cls-1">
+    <rect class="cls-12" width="375" height="812"/>
+    <text id="Register_with_phone_number" data-name="Register with phone number" class="cls-2" transform="translate(51.5 371)"><tspan x="0" y="0">Register with phone number</tspan></text>
     <g id="Group_6" data-name="Group 6" transform="translate(4 30)">
-      <rect id="Rectangle_2" data-name="Rectangle 2" width="253" height="46" rx="5" transform="translate(61 553)" fill="#9b64c9"/>
-      <text id="NEXT" transform="translate(162 584)" fill="#fff" font-size="19" font-family="MSReferenceSansSerif, MS Reference Sans Serif"><tspan x="0" y="0">NEXT</tspan></text>
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="253" height="46" rx="5" transform="translate(61 553)"/>
+      <text id="Next" class="cls-4" transform="translate(162 584)"><tspan x="0" y="0">Next</tspan></text>
     </g>
     <g id="Group_4" data-name="Group 4" transform="translate(12 -0.388)">
-      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(53 420.388)" fill="#fff" stroke="#9b64c9" stroke-width="1">
-        <rect width="253" height="47" rx="5" stroke="none"/>
-        <rect x="0.5" y="0.5" width="252" height="46" rx="4.5" fill="none"/>
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-5" transform="translate(53 420.388)">
+        <rect class="cls-10" width="253" height="47" rx="5"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="252" height="46" rx="4.5"/>
       </g>
-      <text id="_234" data-name="+234" transform="translate(126.573 452.138)" font-size="16" font-family="MSReferenceSansSerif, MS Reference Sans Serif"><tspan x="0" y="0">+234</tspan></text>
-      <path id="Icon_awesome-chevron-down" data-name="Icon awesome-chevron-down" d="M6.952,17.273.627,10.8a.812.812,0,0,1,0-1.13l.738-.755a.769.769,0,0,1,1.1,0L7.5,14.044l5.037-5.128a.769.769,0,0,1,1.1,0l.738.755a.812.812,0,0,1,0,1.13L8.057,17.273A.769.769,0,0,1,6.952,17.273Z" transform="translate(108.571 432.764)" fill="rgba(0,0,0,0.47)"/>
-      <rect id="download" width="38" height="26" transform="translate(64 432.148)" fill="url(#pattern)"/>
-      <text id="_8055620844" data-name="8055620844" transform="translate(174 452.138)" font-size="16" font-family="MSReferenceSansSerif, MS Reference Sans Serif"><tspan x="0" y="0">8055620844</tspan></text>
+      <text id="_234" data-name="+234" class="cls-6" transform="translate(126.573 452.138)"><tspan x="0" y="0">+234</tspan></text>
+      <path id="Icon_awesome-chevron-down" data-name="Icon awesome-chevron-down" class="cls-7" d="M6.952,17.273.627,10.8a.812.812,0,0,1,0-1.13l.738-.755a.769.769,0,0,1,1.1,0L7.5,14.044l5.037-5.128a.769.769,0,0,1,1.1,0l.738.755a.812.812,0,0,1,0,1.13L8.057,17.273A.769.769,0,0,1,6.952,17.273Z" transform="translate(108.571 432.764)"/>
+      <rect id="download" class="cls-8" width="38" height="26" transform="translate(64 432.148)"/>
+      <text id="_8055620844" data-name="8055620844" class="cls-6" transform="translate(174 452.138)"><tspan x="0" y="0">8055620844</tspan></text>
     </g>
-    <g id="IMG-20220125-WA0005" transform="translate(105 149)" stroke="#fff" stroke-width="1" fill="url(#pattern-2)">
-      <ellipse cx="83" cy="82" rx="83" ry="82" stroke="none"/>
-      <ellipse cx="83" cy="82" rx="82.5" ry="81.5" fill="none"/>
+    <g id="IMG-20220125-WA0005" class="cls-9" transform="translate(105 149)">
+      <ellipse class="cls-10" cx="83" cy="82" rx="83" ry="82"/>
+      <ellipse class="cls-11" cx="83" cy="82" rx="82.5" ry="81.5"/>
     </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" class="cls-3" d="M15.623,18l9.6-8.93a1.6,1.6,0,0,0,0-2.384,1.918,1.918,0,0,0-2.568,0L11.779,16.8a1.6,1.6,0,0,0-.053,2.327L22.646,29.32a1.92,1.92,0,0,0,2.568,0,1.6,1.6,0,0,0,0-2.384Z" transform="translate(45.749 762.806)"/>
   </g>
 </svg>
